@@ -1,6 +1,6 @@
 /*globals MinHeap */
 
-var MA = MA || {};
+var MA = MA || {}, MapAlgebra = MA;
 
 (function() {
   MA.NODATA = -1;
